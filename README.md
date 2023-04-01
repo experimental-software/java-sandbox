@@ -10,5 +10,13 @@ BUILD SUCCESSFUL in 883ms
 2 actionable tasks: 2 executed
 ```
 
+## Maintenance
+
+### Update Gradle wrapper
+
+```sh
+
+```
+
 ## References
 
