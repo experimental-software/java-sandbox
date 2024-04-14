@@ -1,3 +1,6 @@
+src/main/java/com/experimental/sandbox/**
+src/test/java/com/experimental/sandbox/**
+
 # Ignore Gradle project-specific cache directory
 .gradle
 
